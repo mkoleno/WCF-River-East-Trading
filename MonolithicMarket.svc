@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MonolithicMarket" CodeBehind="~/App_Code/MonolithicMarket.cs" %>
